@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://kave42601.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "https://kave42601.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/kave42601.github.io/" # the subpath of your site, e.g. /blog
 
 title      : My page
 email      : kaveshakana@example.com #this is also the email contact forms will go to
